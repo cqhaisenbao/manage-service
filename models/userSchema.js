@@ -1,5 +1,6 @@
 const mongoose = require('mongoose')
 
+//按照默认值返回
 const userSchema = mongoose.Schema({
     "userId": Number,//用户ID，自增长
     "userName": String,//用户名称

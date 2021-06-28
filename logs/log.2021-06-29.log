@@ -1,0 +1,13 @@
+[2021-06-29T00:27:31.596] [ERROR] error - ReferenceError: ctx is not defined
+    at C:\Users\yuyou\Desktop\manage-service\app.js:34:5
+    at dispatch (C:\Users\yuyou\Desktop\manage-service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\yuyou\Desktop\manage-service\app.js:29:11
+    at dispatch (C:\Users\yuyou\Desktop\manage-service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (C:\Users\yuyou\Desktop\manage-service\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\yuyou\Desktop\manage-service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (C:\Users\yuyou\Desktop\manage-service\node_modules\koa-static\index.js:53:15)
+    at dispatch (C:\Users\yuyou\Desktop\manage-service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at filter (C:\Users\yuyou\Desktop\manage-service\node_modules\koa-json\index.js:25:12)
+    at dispatch (C:\Users\yuyou\Desktop\manage-service\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at bodyParser (C:\Users\yuyou\Desktop\manage-service\node_modules\koa-bodyparser\index.js:95:11)
+    at processTicksAndRejections (internal/process/task_queues.js:93:5)
