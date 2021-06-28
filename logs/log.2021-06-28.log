@@ -1,0 +1,16 @@
+[2021-06-28T21:32:54.153] [ERROR] error - ReferenceError: ctx is not defined
+    at C:\Users\yuyou\Desktop\manmag-backend\app.js:35:5
+    at dispatch (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\yuyou\Desktop\manmag-backend\app.js:30:11
+    at dispatch (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa-static\index.js:53:15)
+[2021-06-28T21:32:54.351] [ERROR] error - ReferenceError: ctx is not defined
+    at C:\Users\yuyou\Desktop\manmag-backend\app.js:35:5
+    at dispatch (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at C:\Users\yuyou\Desktop\manmag-backend\app.js:30:11
+    at dispatch (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at views (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa-views\src\index.js:91:12)
+    at dispatch (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at serve (C:\Users\yuyou\Desktop\manmag-backend\node_modules\koa-static\index.js:53:15)
